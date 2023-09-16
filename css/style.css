@@ -1,0 +1,18 @@
+.header{
+    background: red;
+}
+.header .container{
+    background: orange;
+}
+.header .container .header__wrapper{
+    background: yellow;
+}
+.banner{
+    background: green;
+}
+.banner .container{
+    background: blue;
+}
+.banner .container .banner__wrapper{
+    background: indigo;
+}
